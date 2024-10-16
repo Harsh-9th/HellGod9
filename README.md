@@ -4,7 +4,7 @@
 - 🔆 I'm familiar with Python, HTML, CSS, C/C++, Django, ML and AI.
 - 💞️ I’m looking to learn amything and everything worthwhile.
 - 📫 Reach me through LinkedIn or Email me.
-- ⚡ Fun fact: every 60 second a minute passes. 😉
+- ⚡ Fun fact: Naming variable is hard...😶‍🌫️
 
 <!---
 HellGod9/HellGod9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
